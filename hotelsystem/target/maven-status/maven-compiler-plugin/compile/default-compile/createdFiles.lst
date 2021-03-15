@@ -1,0 +1,14 @@
+kz/iitu/midterm/entities/user/User.class
+kz/iitu/midterm/entities/room/Room.class
+kz/iitu/midterm/entities/Reservation.class
+kz/iitu/midterm/services/UserServiceImpl.class
+kz/iitu/midterm/controller/ClientController.class
+kz/iitu/midterm/entities/user/UserType.class
+kz/iitu/midterm/repository/UserRepository.class
+kz/iitu/midterm/repository/ReservationRepository.class
+kz/iitu/midterm/services/UserService.class
+kz/iitu/midterm/Main.class
+kz/iitu/midterm/entities/room/RoomType.class
+kz/iitu/midterm/repository/RoomRepository.class
+kz/iitu/midterm/controller/AdminController.class
+kz/iitu/midterm/config/SpringConfig.class

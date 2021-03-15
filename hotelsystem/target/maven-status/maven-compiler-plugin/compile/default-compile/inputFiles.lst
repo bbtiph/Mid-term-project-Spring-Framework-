@@ -1,0 +1,14 @@
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/controller/ClientController.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/repository/ReservationRepository.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/config/SpringConfig.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/entities/room/Room.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/repository/UserRepository.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/entities/Reservation.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/entities/user/User.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/controller/AdminController.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/entities/room/RoomType.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/services/UserServiceImpl.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/entities/user/UserType.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/repository/RoomRepository.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/services/UserService.java
+/Users/magzhanbaimbet/IdeaProjects/hotelsystem/src/main/java/kz/iitu/midterm/Main.java
